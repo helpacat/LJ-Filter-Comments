@@ -1,0 +1,6 @@
+LJ Comment Filter предназначен для выборочного удаления комментариев к своим постам в ЖЖ.
+Требует для работы библиотеку IXR_Library, качать отсюда: http://www.wordtracker.com/docs/api/ch03.html
+Перед использованием создать файл config.inc.php:
+<?
+define('LJ_LOGIN',  ''); // логин в жж
+define('LJ_PASSWD', ''); // пароль в жж
